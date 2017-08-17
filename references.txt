@@ -6,4 +6,4 @@ Hussey, et al. 2010
 
 Someting new
 
-conclusion
+I win the merge conflict
