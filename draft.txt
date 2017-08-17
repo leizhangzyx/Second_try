@@ -1,3 +1,5 @@
 This is the first line of my document.
 
 What happens when I add a second line?
+
+Materials and methods
